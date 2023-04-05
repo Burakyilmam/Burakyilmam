@@ -1,10 +1,10 @@
-Hi 👋, I'm Salih
+Hi , I'm Burak
 
-🌱 I’m currently learning HTML, CSS, Javascript etc.
+🌱 I’m currently learning HTML, CSS, Javascript , C# , Java etc.
 
-👀 I’m working as Web Developer.
+👀 I’m Web Developer.
 
-📫 How to reach me burakyilmamm@hotmail.com
+📫 How to reach me : burakyilmamm@hotmail.com
 
 Connect with me:
 ## 🌐 Social Media:
