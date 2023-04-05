@@ -1,13 +1,12 @@
-Hi , I'm Burak
+ Hi , I'm Burak
 
-🌱 I’m currently learning HTML, CSS, Javascript , C# , Java etc.
+ I’m currently learning HTML, CSS, Javascript , C# , Java etc.
 
-👀 I’m Web Developer.
+ I’m Web Developer.
 
-📫 How to reach me : burakyilmamm@hotmail.com
+ How to reach me : burakyilmamm@hotmail.com
 
-Connect with me:
-## 🌐 Social Media:
+# 🌐 Social Media:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/burakyilmamm/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/byilmam98/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-yılmam-6a21191a7/) 
 
 # 💻 Tech Stack:
