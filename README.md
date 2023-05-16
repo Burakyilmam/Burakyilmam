@@ -2,7 +2,7 @@
 
  I’m currently learning HTML, CSS, Javascript , C# , Java etc.
 
- I’m Web Developer.
+ I’m Computer Engineer.
 
  How to reach me : burakyilmamm@hotmail.com
 
