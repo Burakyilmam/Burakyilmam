@@ -1,6 +1,6 @@
  Hi , I'm Burak
 
- I’m currently learning HTML, CSS, Javascript , C# , Java etc.
+ I’m currently learning HTML, CSS, Javascript , C# , .NET Core , SQL , Java etc.
 
  I’m a Computer Engineer.
 
