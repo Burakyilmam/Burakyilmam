@@ -32,7 +32,10 @@
 
 ###
 
-<p align="left">I’m currently learning HTML, CSS, Javascript , C# , .NET Core , SQL , Java etc.<br><br>I’m a Computer Engineer.<br><br>How to reach me : burakyilmamm@hotmail.com</p>
+<p align="left">I’m currently learning HTML, CSS, Javascript , C# , .NET Core , SQL , Java etc.<br><br>I’m a Computer Engineer.<br><br>How to reach me : 
+<a href="burakyilmamm@hotmail.com">
+  burakyilmamm@hotmail.com
+</a></p>
 
 ###
 
