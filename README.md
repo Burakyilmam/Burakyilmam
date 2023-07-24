@@ -33,8 +33,9 @@
 
   I’m currently learning HTML, CSS, Javascript , C# , .NET Core , SQL , Java etc.
   <br><br>
-  I gradute Kütahya Dumlupınar University Computur Engineering Departman in September 2021.I'm a Web Developer.I'm developing Websites Frontend and Backend parts   
-  with using HTML , CSS , Javascript and .NET Core.
+  I gradute Kütahya Dumlupınar University Computur Engineering Departman in September 2021.
+  <br><br>
+  I'm a Web Developer.I'm developing Websites Frontend and Backend parts   with using HTML , CSS , Javascript and .NET Core.
   <br><br>
   How to reach me : burakyilmamm@hotmail.com
 
