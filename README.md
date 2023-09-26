@@ -58,8 +58,6 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="microsoftsqlserver logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" /> 
 </div>
 
 ###
