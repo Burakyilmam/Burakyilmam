@@ -25,7 +25,7 @@
 
 ###
 
-  I’m currently learning HTML, CSS, Javascript , C# , .NET Core , SQL , Java , Selenium etc.
+  I’m currently learning HTML, CSS, Javascript , C# , .NET Core , SQL , Java , Python , Selenium etc.
   <br><br>
   I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021.
   <br><br>
