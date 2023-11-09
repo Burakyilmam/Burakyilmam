@@ -56,7 +56,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/376344/python.svg" height="40" alt="python logo"  />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" alt="selenium logo"  />
   <img width="12" />
 </div>
 
