@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Burakyilmam&data=followers,repositories,stars,commits&theme=darkmode" />
+<img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Burakyilmam&data=followers,repositories,stars,commits&theme=nautilus" />
 <div>
   
 <div align="center">
