@@ -58,20 +58,19 @@ I am a Web Developer. I develop Front-End and Back-End parts of Websites using H
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" alt="bootstrap logo"  />
   </div>
    <div align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=&logoColor=white" height="40" alt="csharp logo"  />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=&logoColor=white" height="40" alt="dot-net logo"  />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=&logoColor=white" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" height="40" alt="dot-net logo"  />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" alt="microsoftsqlserver logo"  />
   </div>
   <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=&logoColor=white" height="40" alt="java logo"  />
-  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="40" alt="selenium logo"  />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="40" alt="ardunio logo"  />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="java logo"  />
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white" height="40" alt="selenium logo"  />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="40" alt="ardunio logo"  />
   </div>
    <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" alt="python logo"  />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="pandas logo"  />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="40" alt="numpy logo"  />
-  <img src="https://img.shields.io/badge/Matplotlib-%23FFA500.svg?style=for-the-badge&logo=&logoColor=black" height="40" alt="matplotlib logo"  /> 
   </div>
 </div>
 
