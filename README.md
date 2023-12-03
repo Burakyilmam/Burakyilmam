@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/burak-yılmam-6a21191a7/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="mailto:burakyilmamm@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" alt="outlook logo"  />
+  </a>
 </div>
 
 ###
@@ -42,7 +45,8 @@ I graduated from Kütahya Dumlupınar University Department of Computer Engineer
 alt="Technologist Light Skin Tone" width="50" height="50" /> 
 I am a Web Developer. I develop Front-End and Back-End parts of Websites using HTML, CSS, Javascript, Bootsrap and .NET Core.
 <br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="50" height="50" /> How to reach me : burakyilmamm@hotmail.com
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="50" height="50" /> How to reach me : 
+<a href="mailto:burakyilmamm@hotmail.com">Burakyilmamm@hotmail.com</div>
 
 ###
 
