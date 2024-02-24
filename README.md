@@ -18,7 +18,7 @@ Hi, I’m Burak
 
 ###
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Man Teacher Light Skin Tone" width="50" height="50" />
-I’m currently learning HTML, CSS, Javascript , Bootsrap , C# , .NET / .NET Core , Web API , Entityframework , MSSQL , Java , PostgreSQL , Python , Numpy , Pandas and Selenium programming technologies and languages
+I’m currently learning HTML, CSS, Javascript , Bootsrap , C# , .NET / .NET Core , Web API , N-Tier Architecture, Entityframework , MSSQL , Java , PostgreSQL , Python , Numpy , Pandas and Selenium programming technologies and languages
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Medium Skin Tone" width="50" height="50" />
 I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021.
