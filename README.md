@@ -18,14 +18,14 @@ Hi, I’m Burak
 
 ###
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Man Teacher Light Skin Tone" width="50" height="50" />
-I’m currently learning HTML, CSS, Javascript , Bootsrap , C# , .NET / .NET Core , Web API , N-Tier Architecture, Entityframework , MSSQL , Java , PostgreSQL , Python , Numpy , Pandas and Selenium programming technologies and languages
+I’m currently learning HTML, CSS, Javascript , Bootsrap , C# , WinForms , DevExpress , DevExpress eXpress Persistent Objects(XPO) , .NET / .NET Core , Web API , N-Tier Architecture, Entityframework , MSSQL , PostgreSQL , Java and Selenium programming technologies and languages
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Medium Skin Tone" width="50" height="50" />
 I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021.
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png"
 alt="Technologist Light Skin Tone" width="50" height="50" /> 
-I am a Web Developer. I develop Front-End and Back-End parts of Websites using HTML, CSS, Javascript, Bootsrap and .NET Core.
+I am a software specialist. I develop both web and desktop applications. For web applications, I use HTML, CSS, JavaScript, Bootstrap, and .NET, while for desktop applications, I utilize C#, DevExpress, DevExpress eXpress Persistent Objects(XPO), and Winforms
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="50" height="50" /> How to reach me : 
 <a href="mailto:burakyilmamm@hotmail.com">Burakyilmamm@hotmail.com</div>
@@ -53,11 +53,6 @@ I am a Web Developer. I develop Front-End and Back-End parts of Websites using H
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="java logo"  />
   <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white" height="40" alt="selenium logo"  />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" height="40" alt="ardunio logo"  />
-  </div>
-   <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" alt="python logo"  />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="40" alt="pandas logo"  />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="40" alt="numpy logo"  />
   </div>
 </div>
 
