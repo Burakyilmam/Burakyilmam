@@ -27,8 +27,7 @@ I graduated from Kütahya Dumlupınar University Department of Computer Engineer
 alt="Technologist Light Skin Tone" width="50" height="50" /> 
 I am a software specialist. I develop both web and desktop applications. For web applications, I use HTML, CSS, JavaScript, Bootstrap, and .NET, while for desktop applications, I utilize C#, DevExpress, DevExpress eXpress Persistent Objects(XPO), and Winforms
 <br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="50" height="50" /> How to reach me : 
-<a href="mailto:burakyilmamm@hotmail.com">Burakyilmamm@hotmail.com</div>
+
 
 ###
 
