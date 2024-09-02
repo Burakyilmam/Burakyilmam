@@ -51,7 +51,7 @@
   <li><b>Database Management</b>
     <ul>
       <li><b>Microsoft SQL Server (MSSQL)</b></li>
-      <li><b>PostGIS</b></li>    
+      <li><b>PostgreSQL</b></li>    
     </ul>
   </li>
   <li><b>Software Architecture and Patterns</b>
