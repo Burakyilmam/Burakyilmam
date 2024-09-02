@@ -18,15 +18,60 @@ Hi, I’m Burak
 
 ###
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Man Teacher Light Skin Tone" width="50" height="50" />
-I’m currently learning HTML, CSS, Javascript , Bootsrap , C# , WinForms , DevExpress , DevExpress eXpress Persistent Objects(XPO) , .NET / .NET Core , Web API , N-Tier Architecture, Entityframework , MSSQL , PostgreSQL , Java and Selenium programming technologies and languages
+<h4>I'm currently working and learning on the following technologies and software patterns</h4>
+<ul>
+  <li><b>Desktop Application Development</b>
+    <ul>
+      <li><b>C#</b></li>
+      <li><b>WinForms</b></li>
+      <li><b>DevExpress</b></li>
+    </ul>
+  </li>
+  <li><b>Web Technologies</b>
+    <ul>
+      <li><b>HTML</b></li>
+      <li><b>CSS</b></li>
+      <li><b>JavaScript</b></li>
+      <li><b>Bootstrap</b></li>
+      <li><b>.NET Core</b></li>
+    </ul>
+  </li>
+  <li><b>ORM Tools</b>
+    <ul>
+      <li><b>DevExpress eXpress Persistent Objects (XPO)</b></li>
+      <li><b>Entity Framework</b></li>
+    </ul>
+  </li>
+  <li><b>Database Management</b>
+    <ul>
+      <li><b>Microsoft SQL Server (MSSQL)</b></li>
+       <li><b>PostgreSQL</b></li>
+    </ul>
+  </li>
+  <li>
+    <b>Software Architecture and Patterns</b>
+    <ul>
+      <li><b>N-Tier Architecture</b></li>
+      <li><b>Repository Pattern</b></li>
+      <li><b>Model-View-Controller (MVC)</b></li>
+      <li><b>Web API</b></li>
+    </ul>
+  <li><b>Software Testing</b> 
+    <ul>
+      <li><b>Java</b></li>
+      <li><b>Selenium</b></li>
+    </ul>
+  </li>
+  </li>
+</ul>
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Medium Skin Tone" width="50" height="50" />
-I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021.
-<br><br>
+<h4>I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021</h4>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png"
 alt="Technologist Light Skin Tone" width="50" height="50" /> 
-I am a software specialist. I develop both web and desktop applications. For web applications, I use HTML, CSS, JavaScript, Bootstrap, and .NET, while for desktop applications, I utilize C#, DevExpress, DevExpress eXpress Persistent Objects(XPO), and Winforms
-<br><br>
+<h4>
+I am currently working as a software specialist at BLS Birleşik Lastik A.Ş. I develop various modules for Enterprise Resource Planning (ERP) applications using C#, DevExpress, DevExpress eXpress Persistent Objects (XPO), WinForms and Microsoft SQL Server (MSSQL).  I improving application performance and user experience by enhancing existing features. I provide user-friendly interfaces and customizable options to enable more effective and efficient use of the ERP system by users. 
+</h4>
 
 
 ###
