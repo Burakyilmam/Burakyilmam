@@ -44,7 +44,7 @@
   </li>
   <li><b>ORM Tools</b>
     <ul>
-      <li><b>DevExpress eXpress Persistent Objects (XPO)</b></li>
+      <li><b>eXpress Persistent Objects (XPO)</b></li>
       <li><b>Entity Framework</b></li>
     </ul>
   </li>
@@ -52,6 +52,7 @@
     <ul>
       <li><b>Microsoft SQL Server (MSSQL)</b></li>
       <li><b>PostgreSQL</b></li>    
+      <li><b>PostGIS</b></li>    
     </ul>
   </li>
   <li><b>Software Architecture and Patterns</b>
@@ -68,10 +69,21 @@
       <li><b>Selenium</b></li>
     </ul>
   </li>
-  <li><b>Mapping</b> 
+  <li><b>Mapping Tools</b> 
     <ul>
       <li><b>Leaflet.js</b></li>
-      <li><b>PostGIS</b></li>    
+      <li><b>Leaflet.Draw</b></li>   
+      <li><b>Leaflet Routing Machine</b></li> 
+      <li><b>Turf.js</b></li>    
+    </ul>
+  </li>
+   <li><b>Used API</b> 
+    <ul>
+      <li><b>Geolocation API</b></li>
+      <li><b>FreeCurrency API</b></li>   
+      <li><b>OpenWeatherMap API</b></li> 
+      <li><b>Collect API - Pharmacy API</b></li>    
+      <li><b>Google Maps Direction API</b></li>    
     </ul>
   </li>
 </ul>
