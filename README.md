@@ -5,6 +5,7 @@
     Hi, I’m Burak
   </p>
 </h1>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/burak-yılmam-6a21191a7/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -13,15 +14,21 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" alt="outlook logo"  />
   </a>
 </div>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Burakyilmam.Burakyilmam&"  />
 </div>
-<h3 align="left">
-  About Me
-</h3>
 
+<h3 align="left">
+  About Me:
+</h3>
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="50" height="50" />
+<h4>I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021</h4>
+<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Man Teacher Light Skin Tone" width="50" height="50" />
 <h4>I've gained experience with the following technologies and software patterns:</h4>
+
 <ul>
   <li><b>Desktop Application Development</b>
     <ul>
@@ -94,15 +101,13 @@
     </ul>
   </li>
 </ul>
-
-<br><br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="50" height="50" />
-<h4>I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021</h4>
+<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> 
 <h4>
-I am currently working as a software specialist at BLS Birleşik Lastik A.Ş. I develop various modules for Enterprise Resource Planning (ERP) applications using C#, DevExpress, DevExpress eXpress Persistent Objects (XPO), WinForms, and Microsoft SQL Server (MSSQL). I'm improving application performance and user experience by enhancing existing features. I provide user-friendly interfaces and customizable options to enable more effective and efficient use of the ERP system by users.
+I'm currently working as a software developer at BLS Birleşik Lastik A.Ş. I develop various modules for Enterprise Resource Planning (ERP) applications using C#, DevExpress, DevExpress eXpress Persistent Objects (XPO), WinForms, and Microsoft SQL Server (MSSQL). I'm improving application performance and user experience by enhancing existing features. I provide user-friendly interfaces and customizable options to enable more effective and efficient use of the ERP system by users.
 </h4>
-
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="50" height="50" />
 <h3 align="left">Languages , Technologies and Tools I Use:</h3>
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=word,powerpoint,excel,html,css,js,bootstrap,cs,dotnet,sqlserver,postgresql,java,selenium,python,numpy,pandas,matplotlib,leaflet,arduino,vscode,visualstudio,eclipse,idea,anaconda,jupyter)
