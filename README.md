@@ -28,79 +28,96 @@
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Man Teacher Light Skin Tone" width="50" height="50" />
 <h4>I've gained experience with the following technologies and software patterns:</h4>
-
-<ul>
-  <li><b>Desktop Application Development</b>
-    <ul>
-      <li><b>C#</b></li>
-      <li><b>WinForms</b></li>
-      <li><b>DevExpress</b></li>
-    </ul>
-  </li>
-  <li><b>Web Technologies</b>
-    <ul>
-      <li><b>HTML</b></li>
-      <li><b>CSS</b></li>
-      <li><b>JavaScript</b></li>
-      <li><b>Bootstrap</b></li>
-      <li><b>.NET Core</b></li>
-      <li><b>PagedList</b></li>
-      <li><b>SweetAlert2</b></li>
-    </ul>
-  </li>
-  <li><b>ORM Tools</b>
-    <ul>
-      <li><b>eXpress Persistent Objects (XPO)</b></li>
-      <li><b>Entity Framework</b></li>
-    </ul>
-  </li>
-  <li><b>Database Management</b>
-    <ul>
-      <li><b>Microsoft SQL Server (MSSQL)</b></li>
-      <li><b>PostgreSQL</b></li>    
-      <li><b>PostGIS</b></li>    
-    </ul>
-  </li>
-  <li><b>Software Architecture and Patterns</b>
-    <ul>
-      <li><b>N-Tier Architecture</b></li>
-      <li><b>Repository Pattern</b></li>
-      <li><b>Model-View-Controller (MVC)</b></li>
-      <li><b>Web API</b></li>
-    </ul>
-  </li>
-  <li><b>Software Testing</b> 
-    <ul>
-      <li><b>Java</b></li>
-      <li><b>Selenium</b></li>
-    </ul>
-  </li>
-  <li><b>Data Science Tools</b> 
-    <ul>
-      <li><b>Python</b></li>
-      <li><b>Numpy</b></li>
-      <li><b>Pandas</b></li>
-      <li><b>Matplotlib</b></li>
-    </ul>
-  </li>
-  <li><b>Mapping Tools</b> 
-    <ul>
-      <li><b>Leaflet.js</b></li>
-      <li><b>Leaflet.Draw</b></li>   
-      <li><b>Leaflet Routing Machine</b></li> 
-      <li><b>Turf.js</b></li>    
-    </ul>
-  </li>
-   <li><b>Used API</b> 
-    <ul>
-      <li><b>Geolocation API</b></li>
-      <li><b>FreeCurrency API</b></li>   
-      <li><b>OpenWeatherMap API</b></li> 
-      <li><b>Collect API - Pharmacy API</b></li>    
-      <li><b>Google Maps Direction API</b></li>    
-    </ul>
-  </li>
-</ul>
+<table>
+  <tr>
+     <td>
+       <ul>
+         <li><b>Desktop Application Development</b>
+          <ul>
+            <li><b>C#</b></li>
+            <li><b>WinForms</b></li>
+            <li><b>DevExpress</b></li>
+          </ul>
+        </li>
+        <li><b>Web Technologies</b>
+          <ul>
+            <li><b>HTML</b></li>
+            <li><b>CSS</b></li>
+            <li><b>JavaScript</b></li>
+            <li><b>Bootstrap</b></li>
+            <li><b>.NET Core</b></li>
+            <li><b>PagedList</b></li>
+            <li><b>SweetAlert2</b></li>
+          </ul>
+        </li>
+       </ul>
+     </td>
+     <td>
+       <ul>
+         <li><b>ORM Tools</b>
+          <ul>
+            <li><b>eXpress Persistent Objects (XPO)</b></li>
+            <li><b>Entity Framework</b></li>
+          </ul>
+        </li>
+        <li><b>Database Management</b>
+          <ul>
+            <li><b>Microsoft SQL Server (MSSQL)</b></li>
+            <li><b>PostgreSQL</b></li>    
+            <li><b>PostGIS</b></li>    
+          </ul>
+        </li>
+        <li><b>Software Testing</b>
+          <ul>
+            <li><b>Java</b></li>
+            <li><b>Selenium</b></li>
+          </ul>
+        </li>
+       </ul>
+     </td>
+     <td>
+       <ul>
+          <li><b>Software Architecture and Patterns</b>
+          <ul>
+            <li><b>N-Tier Architecture</b></li>
+            <li><b>Repository Pattern</b></li>
+            <li><b>Model-View-Controller (MVC)</b></li>
+            <li><b>Web API</b></li>
+          </ul>
+        </li>
+        <li><b>Data Science Tools</b>
+          <ul>
+            <li><b>Python</b></li>
+            <li><b>Numpy</b></li>
+            <li><b>Pandas</b></li>
+            <li><b>Matplotlib</b></li>
+          </ul>
+        </li>
+       </ul>
+     </td>
+     <td>
+       <ul>
+          <li><b>Mapping Tools</b>
+          <ul>
+            <li><b>Leaflet.js</b></li>
+            <li><b>Leaflet.Draw</b></li>   
+            <li><b>Leaflet Routing Machine</b></li> 
+            <li><b>Turf.js</b></li>    
+          </ul>
+        </li>
+        <li><b>Used API</b>
+          <ul>
+            <li><b>Geolocation API</b></li>
+            <li><b>FreeCurrency API</b></li>   
+            <li><b>OpenWeatherMap API</b></li> 
+            <li><b>Collect API - Pharmacy API</b></li>    
+            <li><b>Google Maps Direction API</b></li>    
+          </ul>
+        </li>
+       </ul>
+     </td>
+  </tr>
+</table>
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> 
 <h4>
