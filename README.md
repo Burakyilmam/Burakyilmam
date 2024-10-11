@@ -27,7 +27,7 @@
 <h4>I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021</h4>
 <br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Man Teacher Light Skin Tone" width="50" height="50" />
-<h4>I've gained experience with the following technologies and software patterns:</h4>
+<h4>I've previously gained experience with the following technologies and software patterns:</h4>
 <table>
   <tr>
      <td>
