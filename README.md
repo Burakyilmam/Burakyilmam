@@ -1,9 +1,11 @@
 <h1 align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png"
-    alt="Waving Hand Light Skin Tone" width="50" height="50" /> 
-    Hi, I’m Burak
-  </p>
+<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="70" height="70" />
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A560&vCenter=true&width=435&lines=Hi%2C+There;+My+name+is+Burak+Y%C4%B1lmam;Nice+to+meet+you;Have+a+nice+day" alt="Typing SVG" />
+    </a>
+</div>
+
 </h1>
 
 <div align="center">
@@ -19,116 +21,43 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Burakyilmam.Burakyilmam&"  />
 </div>
 
-<h3 align="left">
-  About Me:
-</h3>
-<br>
+## About Me
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="50" height="50" />
-<h4>I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021</h4>
-<br>
+
+#### I graduated from Kütahya Dumlupınar University Department of Computer Engineering in September 2021
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Teacher%20Light%20Skin%20Tone.png" alt="Man Teacher Light Skin Tone" width="50" height="50" />
-<h4>I've previously gained experience with the following technologies and software patterns:</h4>
-<table>
-  <tr>
-     <td>
-       <ul>
-         <li><b>Desktop Application Development</b>
-          <ul>
-            <li><b>C#</b></li>
-            <li><b>WinForms</b></li>
-            <li><b>DevExpress</b></li>
-          </ul>
-        </li>
-        <li><b>Web Technologies</b>
-          <ul>
-            <li><b>HTML</b></li>
-            <li><b>CSS</b></li>
-            <li><b>JavaScript</b></li>
-            <li><b>Bootstrap</b></li>
-            <li><b>.NET Core</b></li>
-            <li><b>PagedList</b></li>
-            <li><b>SweetAlert2</b></li>
-          </ul>
-        </li>
-       </ul>
-     </td>
-     <td>
-       <ul>
-         <li><b>ORM Tools</b>
-          <ul>
-            <li><b>eXpress Persistent Objects (XPO)</b></li>
-            <li><b>Entity Framework</b></li>
-          </ul>
-        </li>
-        <li><b>Database Management</b>
-          <ul>
-            <li><b>Microsoft SQL Server (MSSQL)</b></li>
-            <li><b>PostgreSQL</b></li>    
-            <li><b>PostGIS</b></li>    
-          </ul>
-        </li>
-        <li><b>Software Testing</b>
-          <ul>
-            <li><b>Java</b></li>
-            <li><b>Selenium</b></li>
-          </ul>
-        </li>
-       </ul>
-     </td>
-     <td>
-       <ul>
-          <li><b>Software Architecture and Patterns</b>
-          <ul>
-            <li><b>N-Tier Architecture</b></li>
-            <li><b>Repository Pattern</b></li>
-            <li><b>Model-View-Controller (MVC)</b></li>
-            <li><b>Web API</b></li>
-          </ul>
-        </li>
-        <li><b>Data Science Tools</b>
-          <ul>
-            <li><b>Python</b></li>
-            <li><b>Numpy</b></li>
-            <li><b>Pandas</b></li>
-            <li><b>Matplotlib</b></li>
-          </ul>
-        </li>
-       </ul>
-     </td>
-     <td>
-       <ul>
-          <li><b>Mapping Tools</b>
-          <ul>
-            <li><b>Leaflet.js</b></li>
-            <li><b>Leaflet.Draw</b></li>   
-            <li><b>Leaflet Routing Machine</b></li> 
-            <li><b>Turf.js</b></li>    
-          </ul>
-        </li>
-        <li><b>Used API</b>
-          <ul>
-            <li><b>Geolocation API</b></li>
-            <li><b>FreeCurrency API</b></li>   
-            <li><b>OpenWeatherMap API</b></li> 
-            <li><b>Collect API - Pharmacy API</b></li>    
-            <li><b>Google Maps Direction API</b></li>    
-          </ul>
-        </li>
-       </ul>
-     </td>
-  </tr>
-</table>
-<br>
+
+#### I've previously gained experience with the following technologies and software patterns:
+
+| **Category**                             | **Technologies**                                                                                                                                                 |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Desktop Development**                  | C#, WinForms, DevExpress                                                                                                                                         |
+| **Web Development**                      | HTML, CSS, JavaScript, Bootstrap, .NET Core                                                                                                                      |
+| **Real-Time Communication**              | SignalR                                                                                                                                                          |
+| **Object-Relational Mapping (ORM)**      | eXpress Persistent Objects (XPO), Entity Framework                                                                                                               |
+| **Databases**                            | Microsoft SQL Server (MSSQL), PostgreSQL                                                                                                                         |
+| **Software Testing**                     | Java, Selenium                                                                                                                                                   |
+| **Architecture and Patterns**            | N-Tier, Repository, Model-View-Controller (MVC), Web API                                                                                                         |
+| **Data Science**                         | Python, Numpy, Pandas, Matplotlib                                                                                                                                |
+| **Mapping**                              | Leaflet.js, Leaflet.Draw, Leaflet Routing Machine, Turf.js                                                                                                       |
+| **Used APIs**                            | Geolocation, FreeCurrency, OpenWeatherMap, Collect API (Pharmacy), Google Maps Direction                                                                         |
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> 
-<h4>
-I'm currently working as a software developer at BLS Birleşik Lastik A.Ş. I develop various modules for Enterprise Resource Planning (ERP) applications using C#, DevExpress, DevExpress eXpress Persistent Objects (XPO), WinForms, and Microsoft SQL Server (MSSQL). I'm improving application performance and user experience by enhancing existing features. I provide user-friendly interfaces and customizable options to enable more effective and efficient use of the ERP system by users.
-</h4>
-<br>
+
+#### I'm currently working as a software developer at BLS Birleşik Lastik A.Ş. I develop various modules for Enterprise Resource Planning (ERP) applications using C#, DevExpress, eXpress Persistent Objects (XPO), WinForms, and Microsoft SQL Server (MSSQL). I'm improving application performance and user experience by enhancing existing features. I provide user-friendly interfaces and customizable options to enable more effective and efficient use of the ERP system by users. 
+
+#### In my spare time, I work on web design using technologies such as HTML, CSS, JavaScript, and Bootstrap, and develop backend solutions using .NET Core and SignalR. For database operations, I use Microsoft SQL Server (MSSQL) and manage data access with Entity Framework. I also focus on software design patterns like N-Tier, Repository Pattern, and Model-View-Controller (MVC) to keep my applications organized, sustainable, and scalable.I develop APIs using Web API.
+
+#### I work on various web-based applications, such as websites, mapping applications, and real-time messaging systems, in my hobby.
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="50" height="50" />
-<h3 align="left">Languages , Technologies and Tools I Use:</h3>
+
+## Languages , Technologies and Tools I Use:
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=word,powerpoint,excel,html,css,js,bootstrap,cs,dotnet,sqlserver,postgresql,java,selenium,python,numpy,pandas,matplotlib,leaflet,arduino,vscode,visualstudio,eclipse,idea,anaconda,jupyter)
 
-<h3 align="left">My Stats:</h3>
+##
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Burakyilmam)](https://github.com/anuraghazra/github-readme-stats)
