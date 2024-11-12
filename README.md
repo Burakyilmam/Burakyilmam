@@ -2,7 +2,7 @@
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="70" height="70" />
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A560&vCenter=true&width=435&lines=Hi%2C+There;+My+name+is+Burak+Y%C4%B1lmam;Nice+to+meet+you;Have+a+nice+day" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7A560&vCenter=true&center=true&width=435&lines=Hi%2C+There;+My+name+is+Burak+Y%C4%B1lmam;Nice+to+meet+you;Have+a+nice+day" alt="Typing SVG" />
     </a>
 </div>
 
@@ -37,20 +37,26 @@
 | **Web Development**                      | HTML, CSS, JavaScript, Bootstrap, .NET Core                                                                                                                      |
 | **Real-Time Communication**              | SignalR                                                                                                                                                          |
 | **Object-Relational Mapping (ORM)**      | eXpress Persistent Objects (XPO), Entity Framework                                                                                                               |
-| **Databases**                            | Microsoft SQL Server (MSSQL), PostgreSQL                                                                                                                         |
+| **Database**                             | Microsoft SQL Server (MSSQL), PostgreSQL                                                                                                                         |
 | **Software Testing**                     | Java, Selenium                                                                                                                                                   |
-| **Architecture and Patterns**            | N-Tier, Repository, Model-View-Controller (MVC), Web API                                                                                                         |
+| **Architecture and Patterns**            | N-Tier Architecture, Repository, Model-View-Controller (MVC)                                                                                                     |
 | **Data Science**                         | Python, Numpy, Pandas, Matplotlib                                                                                                                                |
 | **Mapping**                              | Leaflet.js, Leaflet.Draw, Leaflet Routing Machine, Turf.js                                                                                                       |
-| **Used APIs**                            | Geolocation, FreeCurrency, OpenWeatherMap, Collect API (Pharmacy), Google Maps Direction                                                                         |
+| **API**                                  |  Web API , Geolocation, FreeCurrency, OpenWeatherMap, Collect API (Pharmacy), Google Maps Direction                                                              |
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> 
 
-#### I'm currently working as a software developer at BLS Birleşik Lastik A.Ş. I develop various modules for Enterprise Resource Planning (ERP) applications using C#, DevExpress, eXpress Persistent Objects (XPO), WinForms, and Microsoft SQL Server (MSSQL). I'm improving application performance and user experience by enhancing existing features. I provide user-friendly interfaces and customizable options to enable more effective and efficient use of the ERP system by users. 
+#### I'm currently working as a software developer at BLS Birleşik Lastik A.Ş. I develop various modules for Enterprise Resource Planning (ERP) applications using C#, DevExpress, eXpress Persistent Objects (XPO), WinForms, and Microsoft SQL Server (MSSQL).
 
-#### In my spare time, I work on web design using technologies such as HTML, CSS, JavaScript, and Bootstrap, and develop backend solutions using .NET Core and SignalR. For database operations, I use Microsoft SQL Server (MSSQL) and manage data access with Entity Framework. I also focus on software design patterns like N-Tier, Repository Pattern, and Model-View-Controller (MVC) to keep my applications organized, sustainable, and scalable.I develop APIs using Web API.
+#### In my spare time, I work on web design using technologies such as HTML, CSS, JavaScript, and Bootstrap and develop backend solutions using .NET Core and C#.
 
-#### I work on various web-based applications, such as websites, mapping applications, and real-time messaging systems, in my hobby.
+#### I apply software design patterns such as N-Tier Architecture, Repository Pattern, and Model-View-Controller (MVC) to keep my applications well-organized, sustainable, and scalable.
+
+#### I use Microsoft SQL Server (MSSQL) and PostgreSQL for database operations and manage data access with Entity Framework and eXpress Persistent Objects (XPO).
+
+#### I develop basic real-time communication applications with SignalR, build APIs using Web API, and integrate third-party APIs, such as Geolocation, FreeCurrency, OpenWeatherMap, Collect API (Pharmacy), and Google Maps Directions, into my projects.
+
+#### I create mapping applications using Leaflet.js, Leaflet.Draw, Leaflet Routing Machine, and Turf.js, together with front-end technologies like HTML, CSS, JavaScript, and Bootstrap.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Mechanic%20Light%20Skin%20Tone.png" alt="Mechanic Light Skin Tone" width="50" height="50" />
 
