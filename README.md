@@ -64,6 +64,46 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=word,powerpoint,excel,html,css,js,bootstrap,cs,dotnet,sqlserver,postgresql,java,selenium,python,numpy,pandas,matplotlib,leaflet,arduino,vscode,visualstudio,eclipse,idea,anaconda,jupyter)
 
-##
+## Certificates
+
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=qKrhmEwJ0V&trk=public_profile_see-credential">
+    <img src="https://github.com/user-attachments/assets/ed342e04-8482-4d37-b3a3-66269b8e1cd6" alt="HTML" width="249" height="170" />
+</a>
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=7rptBpP4k&trk=public_profile_see-credential">
+    <img src="https://github.com/user-attachments/assets/6bbc144a-ce90-4fc6-94b0-7c8a5c5bc3e1" alt="CSS" width="249" height="170" />
+</a>
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=yjahPrvW7&trk=public_profile_see-credential">
+    <img src="https://github.com/user-attachments/assets/2e3e1d89-5ebb-45f8-8d2c-c5952e52ab44" alt="JS" width="249" height="170" />
+</a>
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=rKjhGPOA7k&trk=public_profile_see-credential">
+    <img src="https://github.com/user-attachments/assets/92f44890-1f69-4f66-8f74-285a7ac9d10e" alt="BOOTSRAP" width="249" height="170" />
+</a>
+
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=WJ1SMJlA2g&trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/1bb7f737-c0fa-4b88-865f-873bc22794de" alt="C#" width="249" height="170" />
+</a>
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=bx1hGJl2oB&trk=public_profile_see-credential">
+    <img src="https://github.com/user-attachments/assets/68d391d4-1101-447c-b957-81f45e50936b" alt="COREMVC" width="249" height="170" />
+</a>
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=ax1hD9zXGv&trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/0e936e3f-97e1-46f2-bef1-bc66b8929477" alt="JAVA" width="249" height="170" />
+</a>
+
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=zXztaXWKB0&trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/e0357d8e-3154-4dd0-a68b-dbc6cb0c5bb4" alt="A2" width="249" height="170" />
+</a>
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=GoDfnqN8xd&trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/6e18f5b7-a5b4-433d-b2c8-ba14a8dbb8de" alt="B1" width="249" height="170" />
+</a>
+
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=dx1hApWjnN&trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/0516c5a7-74f8-4343-81d3-c8f35e19794c" alt="GIT_GITHUB" width="249" height="170" />
+</a>
+<a href="https://www.udemy.com/certificate/UC-28e08104-6e56-4f33-bf77-3739ae045ef3/?trk=public_profile_see-credential">
+    <img src="https://github.com/user-attachments/assets/afd83e9b-c5c3-4756-ba04-89022be8c938" alt="C#_UDEMY" width="249" height="170" />
+</a>
+<a href="https://www.udemy.com/certificate/UC-eb65f364-c562-475d-83e8-c6751ecf5068/?trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/29867819-2b0a-4207-aff4-b7916ddc59bf" alt="SQL_UDEMY" width="249" height="170" />
+</a>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Burakyilmam)](https://github.com/anuraghazra/github-readme-stats)
