@@ -106,6 +106,16 @@
 <img src="https://github.com/user-attachments/assets/29867819-2b0a-4207-aff4-b7916ddc59bf" alt="SQL_UDEMY" width="249" height="170" />
 </a>
 
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=JoNfrwjav9&trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/a10f0c4f-7b59-4bcc-87d3-7bca0c891db3" alt="WEBAPI" width="249" height="170" />
+</a>
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=lK1h7GD9Vg&trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/ed168f1b-1c88-4efa-851a-578579f0ad5d" alt="SQL" width="249" height="170" />
+</a>
+<a href="https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=jK1hKBmzpp&trk=public_profile_see-credential">
+<img src="https://github.com/user-attachments/assets/bf7dc843-73c0-40c1-bed0-9aa122cc8658" alt="SQL2" width="249" height="170" />
+</a>
+
 ##
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Burakyilmam)](https://github.com/anuraghazra/github-readme-stats)
