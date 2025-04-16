@@ -15,10 +15,13 @@
   <a href="mailto:burakyilmamm@hotmail.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="25" alt="outlook logo"  />
   </a>
+  <a href="mailto:burokylm@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Burakyilmam.Burakyilmam&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Burakyilmam.Burakyilmam&" />
 </div>
 
 ## About Me
@@ -31,18 +34,18 @@
 
 #### I've previously gained experience with the following technologies and software patterns:
 
-| **Category**                             | **Technologies**                                                                                                                                                 |
-|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Desktop Development**                  | C#, WinForms, DevExpress                                                                                                                                         |
-| **Web Development**                      | HTML, CSS, JavaScript, Bootstrap, .NET Core                                                                                                                      |
-| **Real-Time Communication**              | SignalR                                                                                                                                                          |
-| **Object-Relational Mapping (ORM)**      | eXpress Persistent Objects (XPO), Entity Framework                                                                                                               |
-| **Database**                             | Microsoft SQL Server (MSSQL), PostgreSQL                                                                                                                         |
-| **Software Testing**                     | Java, Selenium                                                                                                                                                   |
-| **Architecture and Patterns**            | N-Tier Architecture, Repository, Model-View-Controller (MVC)                                                                                                     |
-| **Data Science**                         | Python, Numpy, Pandas, Matplotlib                                                                                                                                |
-| **Mapping**                              | Leaflet.js, Leaflet.Draw, Leaflet Routing Machine, Turf.js                                                                                                       |
-| **API**                                  |  Web API , Geolocation, FreeCurrency, OpenWeatherMap, Collect API (Pharmacy), Google Maps Direction                                                              |
+| **Category**                             | **Technologies**                                                                                                                                                 | **Note**                                                                                                                                         |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **Desktop Development**                  | C#, WinForms, DevExpress                                                                                                                                         | Used in Enterprise Resource Planning (ERP) desktop applications                               |
+| **Web Development**                      | HTML, CSS, JavaScript, Bootstrap, .NET Core                                                                                                                      | Used for developing modern, dynamic and responsive websites  |
+| **Real-Time Communication**              | SignalR                                                                                                                                                          | Used for creating real-time chat application                 |
+| **Object-Relational Mapping (ORM)**      | eXpress Persistent Objects (XPO), Entity Framework                                                                                                               | Used for managing and interacting with databases using object-oriented programming (OOP) principles to improve data handling and maintainability. | 
+| **Database**                             | Microsoft SQL Server (MSSQL), PostgreSQL                                                                                                                         | Used for designing, managing, and optimizing relational databases                                  |
+| **Software Testing**                     | Java, Selenium                                                                                                                                                   | Used for automating software testing processes               |
+| **Architecture and Patterns**            | N-Tier Architecture, Repository, Model-View-Controller (MVC)                                                                                                     | Used for designing scalable and maintainable software using structured architectural patterns.         |
+| **Data Science**                         | Python, Numpy, Pandas, Matplotlib                                                                                                                                | Gained experience processing and visualizations during university data analysis courses           |
+| **Mapping**                              | Leaflet.js, Leaflet.Draw, Leaflet Routing Machine, Turf.js                                                                                                       |  Used to create interactive mapping applications and visualize geographic data.                 |
+| **API**                                  | Web API, Geolocation, FreeCurrency, OpenWeatherMap, Collect API (Pharmacy), Google Maps Direction                                                                | Integrated external APIs in various projects                 |
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="50" height="50" /> 
 
